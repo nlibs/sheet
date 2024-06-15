@@ -1,1 +1,1 @@
-version 2 of http-server
+mini wrapper over googleapis node module for reading google sheets
