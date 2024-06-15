@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "googleapis": "133.0.0"
+  },
+  "main": "./sheet.js",
+  "name": "@nlibs/sheet",
+  "version": "1.0.0",
+  "license": "MIT"
+}
